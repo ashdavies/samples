@@ -1,0 +1,14 @@
+<resources>
+    <string name="booking">Booking</string>
+
+    <string name="tables">Tables</string>
+    <string name="customers">Customers</string>
+
+    <string name="table_sorry">Sorry!</string>
+    <string name="table_booking_failed">This table is already booked</string>
+
+    <string name="table_success">Success!</string>
+    <string name="table_booking_success">Table has been booked successfully</string>
+
+    <string name="table_ok">Ok</string>
+</resources>
